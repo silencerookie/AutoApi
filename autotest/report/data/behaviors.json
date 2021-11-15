@@ -1,0 +1,41 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "页面编辑",
+    "children" : [ {
+      "name" : "用例1",
+      "children" : [ {
+        "name" : "test_case03",
+        "uid" : "4dcf1201f5e53037",
+        "parentUid" : "dd238b9ffaf5f23011fdc45d21ab4243",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636967360610,
+          "stop" : 1636967360611,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dd238b9ffaf5f23011fdc45d21ab4243"
+    }, {
+      "name" : "用例2",
+      "children" : [ {
+        "name" : "test_case04",
+        "uid" : "2ac659bc57dce6c6",
+        "parentUid" : "cc2fae70c88910d5a5b396d2bbfe7a28",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636967360613,
+          "stop" : 1636967360613,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cc2fae70c88910d5a5b396d2bbfe7a28"
+    } ],
+    "uid" : "3ab55206a1262b2852f39e370361f50f"
+  } ]
+}

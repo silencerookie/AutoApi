@@ -1,0 +1,92 @@
+{
+  "uid" : "2ac659bc57dce6c6",
+  "name" : "test_case04",
+  "fullName" : "Cases.ApisCases.PageEdit#test_case04",
+  "historyId" : "486f1e3ae03c1083ac406f089a0882ae",
+  "time" : {
+    "start" : 1636967360613,
+    "stop" : 1636967360613,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤，删除",
+      "time" : {
+        "start" : 1636967360613,
+        "stop" : 1636967360613,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "456b4a74cf0c582d",
+      "name" : "stdout",
+      "source" : "456b4a74cf0c582d.txt",
+      "type" : "text/plain",
+      "size" : 17
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "页面编辑"
+  }, {
+    "name" : "story",
+    "value" : "用例2"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Cases"
+  }, {
+    "name" : "suite",
+    "value" : "ApisCases"
+  }, {
+    "name" : "subSuite",
+    "value" : "PageEdit"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-8QUD2F0"
+  }, {
+    "name" : "thread",
+    "value" : "25204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Cases.ApisCases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2ac659bc57dce6c6.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,107 @@
+{
+  "uid" : "4dcf1201f5e53037",
+  "name" : "test_case03",
+  "fullName" : "Cases.ApisCases.PageEdit#test_case03",
+  "historyId" : "85eab06a8de689a9c2b2cfa8c06a4d24",
+  "time" : {
+    "start" : 1636967360610,
+    "stop" : 1636967360611,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1，登录",
+      "time" : {
+        "start" : 1636967360610,
+        "stop" : 1636967360610,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤2，点击",
+      "time" : {
+        "start" : 1636967360610,
+        "stop" : 1636967360610,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "564cfc6b44d4b2f0",
+      "name" : "stdout",
+      "source" : "564cfc6b44d4b2f0.txt",
+      "type" : "text/plain",
+      "size" : 17
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "用例1"
+  }, {
+    "name" : "feature",
+    "value" : "页面编辑"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Cases"
+  }, {
+    "name" : "suite",
+    "value" : "ApisCases"
+  }, {
+    "name" : "subSuite",
+    "value" : "PageEdit"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-8QUD2F0"
+  }, {
+    "name" : "thread",
+    "value" : "25204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Cases.ApisCases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4dcf1201f5e53037.json",
+  "parameterValues" : [ ]
+}
